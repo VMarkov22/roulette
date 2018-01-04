@@ -1,4 +1,4 @@
-# Roulette game.
+# Roulette Game.
 
 import random
 
