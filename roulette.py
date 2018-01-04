@@ -1,3 +1,5 @@
+# Roulette game.
+
 import random
 
 players = []
