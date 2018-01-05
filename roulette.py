@@ -1,5 +1,4 @@
 # Roulette Game.
-# Test Push.
 
 import random
 
